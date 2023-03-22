@@ -1,19 +1,7 @@
 # nyc-public-schools
 an analysis on nyc public schools
 
-the goal of this project is to analyze student test performance
-
-pick any school in this dataset as an initial comparison point: South Shore HS
-
-pick a feature/measure/score: passing regents, 65% and up
-
-compare above school to schools in a particular borough: Brooklyn 
-
-the analysis should include some descriptive statistics: passing rates for each year in Brooklyn HS
-
-the analysis should include one cleaning task (or more): tbd
-
-the analysis should include one visualization (or more): bar or barh
-
-the analysis should include a brief conclusion statement (not more than two or three sentences): tbd
+#for my project I will select High Schools in the boro of Brooklyn (aka Kings County) 
+#and list out the top 5 schools in terms of % of students passing the regents in the year 2017 for Common Core Algebra
+# i did my initial school last as my HS was closed in 2014 and made into 7 seperate schools! on the campus, so i selected one of the top 5 from results
 
